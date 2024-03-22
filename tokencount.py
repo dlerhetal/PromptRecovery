@@ -1,4 +1,4 @@
-# install tiktoken if necessary
+# install tiktoken (if necessary)
 # !pip install tiktoken
 
 # import dependencies
