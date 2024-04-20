@@ -38,5 +38,6 @@ Throughout the discussion of this competition, the inability to see the type of 
 
 <h3>Key Takeaways</h3>
 <li>Gemma is a very advanced, yet limited lightweight LLM that deserves further investigation.</li>
+<li>Fine-tuning LLMs is a really effective method at utilizing pretrained models for niche use-cases.</li>
 <li>The cosine similarity of T5 sentence embeddings is an easily-manipulable metric for comparing similarity of two texts.</li>
-<li>LLMs are not scary, but instead need to be better developed so as to be smarter than the adversarial attacks which render them to the control of the attacker.</li>
+<li>LLMs are not inherently scary, but instead need to be better developed so as to be smarter than the adversarial attacks which render them to the control of the attacker.</li>
